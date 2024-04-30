@@ -1,0 +1,8 @@
+{
+  "name": "Kubecm",
+  "url": "http://kubecm.cloud/",
+  "description": "Manage your kubeconfig more easily.",
+  "thumbnail": "/projects/github.png",
+  "status": "Active",
+  "opensource": true
+}

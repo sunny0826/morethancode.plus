@@ -1,0 +1,8 @@
+{
+  "name": "KubeVela",
+  "url": "https://kubevela.io",
+  "description": "KubeVela is a modern application delivery platform that makes deploying and operating applications across today's hybrid, multi-cloud environments easier, faster and more reliable.",
+  "thumbnail": "/projects/kubevela.svg",
+  "status": "Active",
+  "opensource": true
+}

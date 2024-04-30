@@ -1,0 +1,8 @@
+{
+  "name": "Solon",
+  "url": "https://solon.noear.org/",
+  "description": "Java's new application development framework. Faster, smaller, and easier!",
+  "thumbnail": "/projects/solon.png",
+  "status": "Active",
+  "opensource": true
+}
