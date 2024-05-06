@@ -7,6 +7,7 @@
   </UContainer>
   <div class="h-32"></div>
   <AppFooter />
+  <SpeedInsights />
 </template>
 
 <style>
@@ -25,3 +26,6 @@
   transform: translateY(5px);
 }
 </style>
+<script setup>
+import { SpeedInsights } from '@vercel/speed-insights/vue';
+</script>
